@@ -20,6 +20,7 @@ The full APEX-CV architecture has been successfully synthesized, implemented, an
 * **Integration:** Connected to the Zynq Processing System via AXI SmartConnect interconnects.
 
 ![Vivado Floorplan](https://github.com/user-attachments/assets/bce61936-ebb6-480c-bd8f-3851408e4f3c)
+<img width="1337" height="422" alt="pouti" src="https://github.com/user-attachments/assets/e17ef644-1626-47da-85a8-7e811e86852d" />
 
 ## Verification & Fault-Injection Framework
 Beyond standard functional verification, APEX-CV includes a comprehensive fault-injection testing framework to evaluate reliability in edge AI environments.
