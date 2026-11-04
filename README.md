@@ -11,8 +11,7 @@ The accelerator functions as a tightly coupled IP block within a System-on-Chip 
 * **Hardware Zero-Skipping (`apex_zero_gate`):** Dedicated gating logic handles 2:4 structured weight sparsity and dynamic activation sparsity. By halting multiplier inputs and accumulator updates upon zero-detect, the architecture significantly reduces dynamic power consumption.
 * **Memory & Control:** Features a 6D Address Generation Unit (AGU) and an AXI4 DMA read master for autonomous, high-bandwidth data fetching without stalling the host CPU.
 
-![Vivado Block Design](<img width="1917" height="1131" alt="blockk" src="https://github.com/user-attachments/assets/c3ce9c78-6450-4cad-a883-219a735bed71" />
-)
+![Vivado Block Design](https://github.com/user-attachments/assets/c3ce9c78-6450-4cad-a883-219a735bed71)
 
 ## Hardware Implementation & Results
 The full APEX-CV architecture has been successfully synthesized, implemented, and validated on silicon. 
