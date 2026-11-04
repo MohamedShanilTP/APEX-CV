@@ -19,8 +19,7 @@ The full APEX-CV architecture has been successfully synthesized, implemented, an
 * **Operating Frequency:** 44.12 MHz (Board-verified)
 * **Integration:** Connected to the Zynq Processing System via AXI SmartConnect interconnects.
 
-![Vivado Floorplan](<img width="1917" height="1137" alt="vivv" src="https://github.com/user-attachments/assets/bce61936-ebb6-480c-bd8f-3851408e4f3c" />
-)
+![Vivado Floorplan](https://github.com/user-attachments/assets/bce61936-ebb6-480c-bd8f-3851408e4f3c)
 
 ## Verification & Fault-Injection Framework
 Beyond standard functional verification, APEX-CV includes a comprehensive fault-injection testing framework to evaluate reliability in edge AI environments.
